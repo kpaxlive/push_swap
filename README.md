@@ -35,6 +35,5 @@ For all mandatory and bonus functions:
 
 **Example of usage**
 <p align="center">
-  <img src="./images/sorting2.png" />
-  <img src="./images/sorted.png" />
+  <img src="./sorting2.png" />
 </p>  
